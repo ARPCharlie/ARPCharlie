@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ARPCharlie
+- 👀 I’m interested in backend development and lighting direction.
+- 🌱 I’m currently learning advanced Go.
+- 💞️ I’m looking to collaborate on CTW, a organization made to help change the world.
+- 📫 How to reach me? "charliewoke" on discord, charlie@arp-lan.com
+- 😄 Pronouns: Anything at this point lol.
+- ⚡ Fun fact: Used to run LAN parties.
